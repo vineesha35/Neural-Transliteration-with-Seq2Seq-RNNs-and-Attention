@@ -1,5 +1,3 @@
-# DA6402-A3
-
 # Sequence-to-Sequence Transliteration using RNNs (with and without Attention)
 
 This repository contains code for a sequence-to-sequence transliteration model built using RNNs with optional attention mechanisms. The task involves transliterating text using character-level encoder-decoder architecture.
